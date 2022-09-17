@@ -1,6 +1,6 @@
 <p align="center">
 <img alt="FabledSkyblock"
-    src="https://proxy.songoda.com/200/https://cdn2.songoda.com/products/fabledskyblock/iVa2K5aURiwKfwYkNZUkJ7UH0SGkHwz3JnBGVeBX.png">
+    src="https://imgproxy.songoda.com//fit/1500/0/sm/0/plain/https://i.imgur.com/jG6Jt7p.png">
 </p>
 
 <h1 align="center">FabledSkyblock</h1>
